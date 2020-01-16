@@ -1,0 +1,10 @@
+
+public class main 
+{
+	public static void main(String[] arguments)
+    {
+        Database mainDatabase = new Database();
+        
+    }
+    
+}
